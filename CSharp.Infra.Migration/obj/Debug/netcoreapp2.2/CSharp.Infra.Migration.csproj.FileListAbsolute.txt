@@ -1,0 +1,9 @@
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Migration\bin\Debug\netcoreapp2.2\CSharp.Infra.Migration.deps.json
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Migration\bin\Debug\netcoreapp2.2\CSharp.Infra.Migration.dll
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Migration\obj\Debug\netcoreapp2.2\CSharp.Infra.Migration.csproj.CoreCompileInputs.cache
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Migration\obj\Debug\netcoreapp2.2\CSharp.Infra.Migration.AssemblyInfoInputs.cache
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Migration\obj\Debug\netcoreapp2.2\CSharp.Infra.Migration.AssemblyInfo.cs
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Migration\obj\Debug\netcoreapp2.2\CSharp.Infra.Migration.csprojAssemblyReference.cache
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Migration\bin\Debug\netcoreapp2.2\CSharp.Infra.Migration.pdb
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Migration\obj\Debug\netcoreapp2.2\CSharp.Infra.Migration.dll
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Migration\obj\Debug\netcoreapp2.2\CSharp.Infra.Migration.pdb

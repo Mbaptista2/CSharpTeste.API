@@ -1,0 +1,14 @@
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Infra.Data.deps.json
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Infra.Data.dll
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.AssemblyInfo.cs
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Infra.Data.pdb
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Application.dll
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Domain.dll
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Application.pdb
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Domain.pdb
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.csproj.CopyComplete
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.dll
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.pdb

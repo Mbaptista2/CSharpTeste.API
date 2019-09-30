@@ -1,0 +1,12 @@
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\bin\Debug\netcoreapp2.2\CSharp.Application.deps.json
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\bin\Debug\netcoreapp2.2\CSharp.Application.dll
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.csprojAssemblyReference.cache
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.AssemblyInfoInputs.cache
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.AssemblyInfo.cs
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\bin\Debug\netcoreapp2.2\CSharp.Application.pdb
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\bin\Debug\netcoreapp2.2\CSharp.Domain.dll
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\bin\Debug\netcoreapp2.2\CSharp.Domain.pdb
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.csproj.CopyComplete
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.dll
+C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.pdb

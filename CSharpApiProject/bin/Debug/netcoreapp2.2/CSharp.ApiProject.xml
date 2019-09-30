@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CSharp.ApiProject</name>
+    </assembly>
+    <members>
+        <member name="T:CSharp.ApiProject.Controllers.HomeController">
+            <summary/>
+        </member>
+        <member name="M:CSharp.ApiProject.Controllers.HomeController.Index">
+            <summary/>
+        </member>
+    </members>
+</doc>
