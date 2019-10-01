@@ -12,3 +12,17 @@ C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSha
 C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.csproj.CopyComplete
 C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.dll
 C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.pdb
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Infra.Data.deps.json
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Infra.Data.dll
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Infra.Data.pdb
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Application.dll
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Domain.dll
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Application.pdb
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\bin\Debug\netcoreapp2.2\CSharp.Domain.pdb
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.csprojAssemblyReference.cache
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.AssemblyInfo.cs
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.csproj.CopyComplete
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.dll
+C:\Projetos\CSharpTestProject\CSharp.Infra.Data\obj\Debug\netcoreapp2.2\CSharp.Infra.Data.pdb

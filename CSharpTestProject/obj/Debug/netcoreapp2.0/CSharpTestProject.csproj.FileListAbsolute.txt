@@ -12,3 +12,17 @@ C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSha
 C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharpTestProject\obj\Debug\netcoreapp2.0\CSharpTestProject.AssemblyInfo.cs
 C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharpTestProject\obj\Debug\netcoreapp2.0\CSharpTestProject.dll
 C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharpTestProject\obj\Debug\netcoreapp2.0\CSharpTestProject.pdb
+C:\Projetos\CSharpTestProject\CSharpTestProject\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projetos\CSharpTestProject\CSharpTestProject\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Projetos\CSharpTestProject\CSharpTestProject\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Projetos\CSharpTestProject\CSharpTestProject\bin\Debug\netcoreapp2.0\CSharpTestProject.deps.json
+C:\Projetos\CSharpTestProject\CSharpTestProject\bin\Debug\netcoreapp2.0\CSharpTestProject.runtimeconfig.json
+C:\Projetos\CSharpTestProject\CSharpTestProject\bin\Debug\netcoreapp2.0\CSharpTestProject.runtimeconfig.dev.json
+C:\Projetos\CSharpTestProject\CSharpTestProject\bin\Debug\netcoreapp2.0\CSharpTestProject.dll
+C:\Projetos\CSharpTestProject\CSharpTestProject\bin\Debug\netcoreapp2.0\CSharpTestProject.pdb
+C:\Projetos\CSharpTestProject\CSharpTestProject\obj\Debug\netcoreapp2.0\CSharpTestProject.csprojAssemblyReference.cache
+C:\Projetos\CSharpTestProject\CSharpTestProject\obj\Debug\netcoreapp2.0\CSharpTestProject.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharpTestProject\CSharpTestProject\obj\Debug\netcoreapp2.0\CSharpTestProject.AssemblyInfoInputs.cache
+C:\Projetos\CSharpTestProject\CSharpTestProject\obj\Debug\netcoreapp2.0\CSharpTestProject.AssemblyInfo.cs
+C:\Projetos\CSharpTestProject\CSharpTestProject\obj\Debug\netcoreapp2.0\CSharpTestProject.dll
+C:\Projetos\CSharpTestProject\CSharpTestProject\obj\Debug\netcoreapp2.0\CSharpTestProject.pdb

@@ -10,3 +10,15 @@ C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSha
 C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.csproj.CopyComplete
 C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.dll
 C:\Users\Marceçp\Desktop\CSharpTestProject-master\CSharpTestProject-master\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.pdb
+C:\Projetos\CSharpTestProject\CSharp.Application\bin\Debug\netcoreapp2.2\CSharp.Application.deps.json
+C:\Projetos\CSharpTestProject\CSharp.Application\bin\Debug\netcoreapp2.2\CSharp.Application.dll
+C:\Projetos\CSharpTestProject\CSharp.Application\bin\Debug\netcoreapp2.2\CSharp.Application.pdb
+C:\Projetos\CSharpTestProject\CSharp.Application\bin\Debug\netcoreapp2.2\CSharp.Domain.dll
+C:\Projetos\CSharpTestProject\CSharp.Application\bin\Debug\netcoreapp2.2\CSharp.Domain.pdb
+C:\Projetos\CSharpTestProject\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.csprojAssemblyReference.cache
+C:\Projetos\CSharpTestProject\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharpTestProject\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.AssemblyInfoInputs.cache
+C:\Projetos\CSharpTestProject\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.AssemblyInfo.cs
+C:\Projetos\CSharpTestProject\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.csproj.CopyComplete
+C:\Projetos\CSharpTestProject\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.dll
+C:\Projetos\CSharpTestProject\CSharp.Application\obj\Debug\netcoreapp2.2\CSharp.Application.pdb
