@@ -5818,11 +5818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharpTestProject\\CSharpTestProject.csproj",
+      "projectUniqueName": "C:\\Projetos\\CSharpTestProject\\CSharpTestProject\\CSharpTestProject.csproj",
       "projectName": "CSharpTestProject",
-      "projectPath": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharpTestProject\\CSharpTestProject.csproj",
+      "projectPath": "C:\\Projetos\\CSharpTestProject\\CSharpTestProject\\CSharpTestProject.csproj",
       "packagesPath": "C:\\Users\\Marceçp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharpTestProject\\obj\\",
+      "outputPath": "C:\\Projetos\\CSharpTestProject\\CSharpTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

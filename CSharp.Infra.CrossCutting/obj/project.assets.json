@@ -3364,11 +3364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Infra.CrossCutting\\CSharp.Infra.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Projetos\\CSharpTestProject\\CSharp.Infra.CrossCutting\\CSharp.Infra.CrossCutting.csproj",
       "projectName": "CSharp.Infra.CrossCutting",
-      "projectPath": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Infra.CrossCutting\\CSharp.Infra.CrossCutting.csproj",
+      "projectPath": "C:\\Projetos\\CSharpTestProject\\CSharp.Infra.CrossCutting\\CSharp.Infra.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\Marceçp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Infra.CrossCutting\\obj\\",
+      "outputPath": "C:\\Projetos\\CSharpTestProject\\CSharp.Infra.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3387,11 +3387,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Application\\CSharp.Application.csproj": {
-              "projectPath": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Application\\CSharp.Application.csproj"
+            "C:\\Projetos\\CSharpTestProject\\CSharp.Application\\CSharp.Application.csproj": {
+              "projectPath": "C:\\Projetos\\CSharpTestProject\\CSharp.Application\\CSharp.Application.csproj"
             },
-            "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Infra.Data\\CSharp.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Infra.Data\\CSharp.Infra.Data.csproj"
+            "C:\\Projetos\\CSharpTestProject\\CSharp.Infra.Data\\CSharp.Infra.Data.csproj": {
+              "projectPath": "C:\\Projetos\\CSharpTestProject\\CSharp.Infra.Data\\CSharp.Infra.Data.csproj"
             }
           }
         }

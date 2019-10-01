@@ -3265,11 +3265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Infra.Data\\CSharp.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Projetos\\CSharpTestProject\\CSharp.Infra.Data\\CSharp.Infra.Data.csproj",
       "projectName": "CSharp.Infra.Data",
-      "projectPath": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Infra.Data\\CSharp.Infra.Data.csproj",
+      "projectPath": "C:\\Projetos\\CSharpTestProject\\CSharp.Infra.Data\\CSharp.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\Marceçp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Infra.Data\\obj\\",
+      "outputPath": "C:\\Projetos\\CSharpTestProject\\CSharp.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3288,11 +3288,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Application\\CSharp.Application.csproj": {
-              "projectPath": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Application\\CSharp.Application.csproj"
+            "C:\\Projetos\\CSharpTestProject\\CSharp.Application\\CSharp.Application.csproj": {
+              "projectPath": "C:\\Projetos\\CSharpTestProject\\CSharp.Application\\CSharp.Application.csproj"
             },
-            "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Domain\\CSharp.Domain.csproj": {
-              "projectPath": "C:\\Users\\Marceçp\\Desktop\\CSharpTestProject-master\\CSharpTestProject-master\\CSharp.Domain\\CSharp.Domain.csproj"
+            "C:\\Projetos\\CSharpTestProject\\CSharp.Domain\\CSharp.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\CSharpTestProject\\CSharp.Domain\\CSharp.Domain.csproj"
             }
           }
         }
