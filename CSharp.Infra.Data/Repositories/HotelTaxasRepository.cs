@@ -16,10 +16,18 @@ namespace CSharp.Infra.Data.Repositories
     {
         public HotelTaxasRepository(ISessionFactory sessionFactory, IMapper mapper) : base(sessionFactory, mapper)
         {
-
+             
         }
 
-        public IEnumerable<HotelTaxasModel> BuscarTaxasPorIdHotel(string tipoCliente)
+        public IEnumerable<HotelTaxasModel> BuscarTaxasPorIdHotel(int idHotel)
+        {
+            using (var session = _sessionFactory.OpenSession())
+            {
+                return _mapper.Map<List<HotelTaxasModel>>(session.Query<HotelTaxasDataModel>().Where(x => x.Hotel.Id == idHotel).Select(y => y));
+            }
+        }
+
+        public IEnumerable<HotelTaxasModel> BuscarTaxasPorTipoCliente(string tipoCliente)
         {
             using (var session = _sessionFactory.OpenSession())
             {

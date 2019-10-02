@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "105cfae20aca11451a3a452e1b296e9076a2427e"
+    "signature": "4bf3844afde35b1a33f9a29a1bcdbe020e6967df"
   },
   "compilationOptions": {
     "defines": [
@@ -416,6 +416,20 @@
           "lib/netcoreapp2.0/FluentNHibernate.dll": {}
         }
       },
+      "FluentValidation/8.5.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.5.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        }
+      },
       "Iesi.Collections/4.0.4": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
@@ -632,7 +646,8 @@
       "CSharp.Application/1.0.0": {
         "dependencies": {
           "AutoMapper": "8.0.0",
-          "CSharp.Domain": "1.0.0"
+          "CSharp.Domain": "1.0.0",
+          "FluentValidation": "8.5.0"
         },
         "runtime": {
           "CSharp.Application.dll": {}
@@ -4048,6 +4063,13 @@
       "sha512": "sha512-JcSxfsgciJQJDEWGYp1tur4XIEBRYpWquDihFZZhFP0yF1UuXwvC/UxNGawQArw6PpLAaVDJdLZPH1Ot8+8DHQ==",
       "path": "fluentnhibernate/2.1.2",
       "hashPath": "fluentnhibernate.2.1.2.nupkg.sha512"
+    },
+    "FluentValidation/8.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gH9TOcn/l4WEG+h17z9sOPUf8rYX2NKBZ4hQjdPQWLeSyGlUiTCVVv6Dmpg2573Wtl2u1y11YmmhUO31gcZkeQ==",
+      "path": "fluentvalidation/8.5.0",
+      "hashPath": "fluentvalidation.8.5.0.nupkg.sha512"
     },
     "Iesi.Collections/4.0.4": {
       "type": "package",

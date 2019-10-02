@@ -9,6 +9,7 @@ namespace CSharp.Application.Interfaces.Repositories
     public interface IHotelTaxasRepository : IRepository<HotelTaxasModel>
     {
         void ExcluirPorIdHotel(int idHotel);
-        IEnumerable<HotelTaxasModel> BuscarTaxasPorIdHotel(string tipoCliente);
+        IEnumerable<HotelTaxasModel> BuscarTaxasPorTipoCliente(string tipoCliente);
+        IEnumerable<HotelTaxasModel> BuscarTaxasPorIdHotel(int idHotel);
     }
 }

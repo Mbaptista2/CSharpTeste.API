@@ -3,8 +3,10 @@ using CSharp.Application.CasosDeUso.Hotel.Calculos;
 using CSharp.Application.Interfaces.CasosDeUso;
 using CSharp.Application.Interfaces.Repositories;
 using CSharp.Domain.Entidades;
+using FluentValidation;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,32 +16,32 @@ namespace CSharp.Application.CasosDeUso.Hotel.Base
     {
         private readonly IHotelRepository _HotelRepository;
         private readonly IHotelTaxasRepository _hotelTaxasRepository;
-        //private readonly IValidator<InserirHotelRequest> _inserirHotelValidator;
-        //private readonly IValidator<AlterarHotelRequest> _alterarHotelValidator;
+        private readonly IValidator<InserirHotelRequest> _inserirHotelValidator;
+        private readonly IValidator<AlterarHotelRequest> _alterarHotelValidator;
         private readonly IMapper _mapper;
 
         public HotelCasoDeUso(IHotelRepository HotelRepository,
             IHotelTaxasRepository hotelTaxasRepository,
-           //IValidator<InserirHotelRequest> inserirHotelValidator,
+           IValidator<InserirHotelRequest> inserirHotelValidator,
            //IValidator<AlterarHotelRequest> alterarHotelValidator,
            IMapper mapper)
         {
             _HotelRepository = HotelRepository;
             _hotelTaxasRepository = hotelTaxasRepository;
-            // _inserirHotelValidator = inserirHotelValidator;
+            _inserirHotelValidator = inserirHotelValidator;
             //_alterarHotelValidator = alterarHotelValidator;
             _mapper = mapper;
         }
 
         public async Task Inserir(InserirHotelRequest HotelRequest, IOutputPort<HotelResponse> outputPort)
         {
-            //var validations = _inserirHotelValidator.Validate(HotelRequest);
+            var validations = _inserirHotelValidator.Validate(HotelRequest);
 
-            //if (!validations.IsValid)
-            //{
-            //    outputPort.Handler(new HotelResponse(validations.Errors.Select(x => x.ErrorMessage)));
-            //    return;
-            //}
+            if (!validations.IsValid)
+            {
+                outputPort.Handler(new HotelResponse(validations.Errors.Select(x => x.ErrorMessage)));
+                return;
+            }
 
             var a = _mapper.Map<HotelModel>(HotelRequest);
             await _HotelRepository.Inserir(a);
@@ -55,20 +57,20 @@ namespace CSharp.Application.CasosDeUso.Hotel.Base
 
         public async Task Alterar(AlterarHotelRequest HotelRequest, IOutputPort<HotelResponse> outputPort)
         {
-            //var validations = _alterarHotelValidator.Validate(HotelRequest);
+            var validations = _alterarHotelValidator.Validate(HotelRequest);
 
-            //if (!validations.IsValid)
-            //{
-            //    outputPort.Handler(new HotelResponse(validations.Errors.Select(x => x.ErrorMessage)));
-            //    return;
-            //}
+            if (!validations.IsValid)
+            {
+                outputPort.Handler(new HotelResponse(validations.Errors.Select(x => x.ErrorMessage)));
+                return;
+            }
 
             if (!await Existe(HotelRequest.Id, outputPort))
                 return;
 
             var HotelModel = _mapper.Map<HotelModel>(HotelRequest);
             await _HotelRepository.Alterar(HotelModel);
-
+           
 
             outputPort.Handler(_mapper.Map<HotelResponse>(HotelModel));
         }
@@ -85,7 +87,7 @@ namespace CSharp.Application.CasosDeUso.Hotel.Base
         public async Task ObterPorId(int id, IOutputPort<HotelResponse> outputPort)
         {
             var HotelModel = await _HotelRepository.ObterPorId(id);
-
+                     
             if (HotelModel != null)
                 outputPort.Handler(_mapper.Map<HotelResponse>(HotelModel));
         }
@@ -115,11 +117,12 @@ namespace CSharp.Application.CasosDeUso.Hotel.Base
             //    return;
             //}
 
-            var taxas = _hotelTaxasRepository.BuscarTaxasPorIdHotel(HotelRequest.TipoCliente);
+            var taxas = _hotelTaxasRepository.BuscarTaxasPorTipoCliente(HotelRequest.TipoCliente);
 
             CalcularHotelMaisBarato calcularHotelMaisBarato = new CalcularHotelMaisBarato();
 
             HotelMaisBaratoResponse response = new HotelMaisBaratoResponse();
+           
 
             response.Nome= calcularHotelMaisBarato.Calcular(taxas, HotelRequest.Datas);
 

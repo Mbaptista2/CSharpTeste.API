@@ -21,10 +21,7 @@ namespace CSharp.Infra.CrossCutting.Ioc
             builder
                .RegisterAssemblyTypes(typeof(RepositoryBase<,>).Assembly)
                .AsImplementedInterfaces().InstancePerLifetimeScope();
-
-            builder
-              .RegisterAssemblyTypes(typeof(RepositoryBase<,>).Assembly)
-              .AsImplementedInterfaces().InstancePerLifetimeScope();
+            
 
             var sessionFactory = NHibernateHelper.ConfigureSessionFactory(a =>
             {

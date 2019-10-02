@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "df702cb0a69ba72ed66eb055cd675081c1005b62"
+    "signature": "3b9b00eebaf287a02208185cc7c93251b17dd4f0"
   },
   "compilationOptions": {},
   "targets": {
@@ -65,6 +65,17 @@
           "lib/netcoreapp2.0/FluentNHibernate.dll": {
             "assemblyVersion": "2.1.2.0",
             "fileVersion": "2.1.2.0"
+          }
+        }
+      },
+      "FluentValidation/8.5.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.4.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.5.0.0"
           }
         }
       },
@@ -148,6 +159,7 @@
           "System.Runtime": "4.3.0"
         }
       },
+      "System.ComponentModel.Annotations/4.4.1": {},
       "System.Configuration.ConfigurationManager/4.4.1": {
         "dependencies": {
           "System.Security.Cryptography.ProtectedData": "4.4.0"
@@ -425,7 +437,8 @@
       "CSharp.Application/1.0.0": {
         "dependencies": {
           "AutoMapper": "8.0.0",
-          "CSharp.Domain": "1.0.0"
+          "CSharp.Domain": "1.0.0",
+          "FluentValidation": "8.5.0"
         },
         "runtime": {
           "CSharp.Application.dll": {}
@@ -489,6 +502,13 @@
       "path": "fluentnhibernate/2.1.2",
       "hashPath": "fluentnhibernate.2.1.2.nupkg.sha512"
     },
+    "FluentValidation/8.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gH9TOcn/l4WEG+h17z9sOPUf8rYX2NKBZ4hQjdPQWLeSyGlUiTCVVv6Dmpg2573Wtl2u1y11YmmhUO31gcZkeQ==",
+      "path": "fluentvalidation/8.5.0",
+      "hashPath": "fluentvalidation.8.5.0.nupkg.sha512"
+    },
     "Iesi.Collections/4.0.4": {
       "type": "package",
       "serviceable": true,
@@ -537,6 +557,13 @@
       "sha512": "sha512-3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
       "path": "system.collections/4.3.0",
       "hashPath": "system.collections.4.3.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ToiYqSCioqhtspq2O/jYKtyTC/T0uwWHBTYlzCi6PRbSSHArN1IaRWeHffDamvms5sye5FDUWCfNZgubQpNRsA==",
+      "path": "system.componentmodel.annotations/4.4.1",
+      "hashPath": "system.componentmodel.annotations.4.4.1.nupkg.sha512"
     },
     "System.Configuration.ConfigurationManager/4.4.1": {
       "type": "package",
